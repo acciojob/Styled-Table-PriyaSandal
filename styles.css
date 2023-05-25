@@ -1,1 +1,16 @@
 /* your code */
+thead{
+	color:white;
+	background:darkBlue;
+	
+}
+table{
+border:4px solid blue;
+
+	}
+td{
+	background:sky;
+	color:black;
+	margin:20px;
+	padding:20px;
+}
